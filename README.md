@@ -1,6 +1,6 @@
 # How to use? #
 
-- Go to replit.comand create a new replit
+- Go to replit.com and create a new replit
 
 - Click python
 
